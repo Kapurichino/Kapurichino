@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:f0f8ff,100:87ceeb&height=300&section=header&text=kapurichino&animation=fadeIn&fontSize=80&fontColor=f0f8ff&fontAlign=70&fontAlignY=30&rotate=20)
 
 ## Major
@@ -9,7 +11,14 @@
 
 ## Github Log
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapurichino&bg_color=90,f0f8ff,ffb5ac) ![kapuchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapurichino&show_icons=true&theme=default) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapurichino&layout=compact&bg_color=90,f0f8ff,ffb5ac)  
+![kapuchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapurichino&show_icons=true&theme=default&bg_color=0,f0f8ff,ccffe8) 
+
+</div>
+
+
+
+
 
 
 
