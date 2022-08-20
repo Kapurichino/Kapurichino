@@ -1,4 +1,8 @@
-### Hi there 👋
+# Kapurichino's profile
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:f0f8ff,100:87ceeb&height=300&section=header&text=kapurichino&animation=fadeIn&fontSize=80&fontColor=f0f8ff&fontAlign=70&fontAlignY=30&rotate=20)
+
+
 
 <!--
 **Kapurichino/Kapurichino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
