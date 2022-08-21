@@ -4,7 +4,7 @@
 
 ## Major
 
-<img alt="REACT" src ="https://img.shields.io/badge/React-C18BF6.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-f0f8ff.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>  
+<img alt="REACT" src ="https://img.shields.io/badge/React-C18BF6.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="REDUX" src ="https://img.shields.io/badge/Redux-feff5f.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>  <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-f0f8ff.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>  
 <img alt="HTML" src ="https://img.shields.io/badge/Html-e1f8ff.svg?&style=for-the-badge&logo=Html&logoColor=white"/>
 <img alt="SASS" src ="https://img.shields.io/badge/Sass-008d5f.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/Css-ffb897.svg?&style=for-the-badge&logo=Css&logoColor=white"/>
